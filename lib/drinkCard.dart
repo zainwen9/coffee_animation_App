@@ -115,7 +115,7 @@ class DrinkCard extends StatelessWidget {
                 ),
               ),
               const SizedBox(
-                height: 10,
+                height: 15,
               ),
               Text(
                 drink.description,
@@ -163,11 +163,11 @@ class DrinkCard extends StatelessWidget {
                         width: 10,
                       ),
                       Text(
-                        '4.',
+                        '10.',
                         style: TextStyle(fontSize: 19, color: Colors.white),
                       ),
                       Text(
-                        '80',
+                        '130',
                         style: TextStyle(fontSize: 14, color: Colors.white),
                       ),
                     ],
