@@ -8,3 +8,5 @@ Color toGreen = Color(0xff033B2B);
 Color appGreen = Color(0xff067655);
 Color green=Colors.black26;
 Color yelow=Colors.yellow;
+Color red=Colors.red;
+Color pink=Colors.pink;
