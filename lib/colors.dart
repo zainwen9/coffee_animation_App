@@ -6,3 +6,5 @@ Color greenLight = Color(0xffA3DB72);
 Color greenDark = Color(0xff497E19);
 Color toGreen = Color(0xff033B2B);
 Color appGreen = Color(0xff067655);
+Color green=Colors.black26;
+Color yelow=Colors.yellow;

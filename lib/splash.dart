@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:stb/screens/home.dart';
 
 
-class SplashScreen extends StatefulWidget {
+class Splashscreen extends StatefulWidget {
   @override
-  _SplashScreenState createState() => _SplashScreenState();
+  _SplashscreenState createState() => _SplashscreenState();
 }
 
-class _SplashScreenState extends State<SplashScreen> {
+class _SplashscreenState extends State<Splashscreen> {
   @override
   void initState() {
     var d = Duration(seconds: 2);
@@ -31,7 +31,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
+      body: Container (
         decoration: BoxDecoration(
           image: DecorationImage(
             image: AssetImage('images/splash.png'),
