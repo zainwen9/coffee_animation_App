@@ -7,5 +7,7 @@ Color greenDark = Color(0xff497E19);
 Color toGreen = Color(0xff033B2B);
 Color appGreen = Color(0xff067655);
 
-Color ygb = Color(0xff033B2B);
-Color bhn = Color(0xff067655);
+Color jj = Color(0xff033B2B);
+Color dd = Color(0xff067655);Color toGeereen = Color(0xff033B2B);
+Color ff = Color(0xff067655);Color toGrsdeen = Color(0xff033B2B);
+Color fg = Color(0xff067655);
